@@ -1,0 +1,6 @@
+[submodule "solana-pre-req-1"]
+	path = solana-pre-req-1
+	url = https://github.com/Scienceboii/solana-pre-req-1.git
+[submodule "solana-pre-req-2"]
+	path = solana-pre-req-2
+	url = https://github.com/Scienceboii/solana-pre-req-2.git

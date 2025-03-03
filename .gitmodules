@@ -4,3 +4,27 @@
 [submodule "solana-pre-req-2"]
 	path = solana-pre-req-2
 	url = https://github.com/Scienceboii/solana-pre-req-2.git
+[submodule "HarmoniX"]
+	path = HarmoniX
+	url = https://github.com/Scienceboii/HarmoniX.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/Scienceboii/solana-starter.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = https://github.com/Scienceboii/nft-staking.git
+[submodule "nft-marketplace"]
+	path = nft-marketplace
+	url = https://github.com/Scienceboii/nft-marketplace.git
+[submodule "dice-game-program"]
+	path = dice-game-program
+	url = https://github.com/Scienceboii/dice-game-program.git
+[submodule "Anchor-Vault"]
+	path = Anchor-Vault
+	url = https://github.com/Scienceboii/Anchor-Vault.git
+[submodule "Anchor-Escrow"]
+	path = Anchor-Escrow
+	url = https://github.com/Scienceboii/Anchor-Escrow.git
+[submodule "Anchor-Amm"]
+	path = Anchor-Amm
+	url = https://github.com/Scienceboii/Anchor-Amm.git
